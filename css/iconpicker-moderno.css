@@ -1,0 +1,33 @@
+.field.font-awesome-picker .select2-dropdown {
+    border: 1px solid #c4c6c8;
+    border-radius: 0;
+}
+
+.field.font-awesome-picker .select2-container--default .select2-selection--single,
+.field.font-awesome-picker .select2-container--default .select2-selection--multiple,
+.field.font-awesome-picker .select2-container--classic .select2-selection--single,
+.field.font-awesome-picker .select2-container--classic .select2-selection--multiple {
+    height: 32px;
+    border-radius: 0;
+    border: 1px solid #c4c6c8;
+}
+
+.field.font-awesome-picker .select2-container--default .select2-selection--single:focus,
+.field.font-awesome-picker .select2-container--default .select2-selection--multiple:focus,
+.field.font-awesome-picker .select2-container--classic .select2-selection--single:focus,
+.field.font-awesome-picker .select2-container--classic .select2-selection--multiple:focus {
+    outline: none;
+}
+
+.field.font-awesome-picker .select2-container--default .select2-selection--single .select2-selection__rendered,
+.field.font-awesome-picker .select2-container--default .select2-selection--multiple .select2-selection__rendered,
+.field.font-awesome-picker .select2-container--classic .select2-selection--single .select2-selection__rendered,
+.field.font-awesome-picker .select2-container--classic .select2-selection--multiple .select2-selection__rendered {
+    line-height: 32px;
+}
+
+.field.font-awesome-picker .select2-container--default .select2-selection--multiple .select2-selection__choice,
+.field.font-awesome-picker .select2-container--classic .select2-selection--multiple .select2-selection__choice {
+    border-radius: 0;
+    border: 1px solid #c4c6c8;
+}

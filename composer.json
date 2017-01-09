@@ -1,0 +1,20 @@
+{
+  "name": "hailwood/silverstripe-fontawesome",
+  "description": "Adds a new iconpicker fieldtype.",
+  "type": "silverstripe-module",
+  "keywords": [
+    "silverstripe",
+    "icons"
+  ],
+  "license": "GNU",
+  "authors": [
+    {
+      "name": "Matthew Hailwood",
+      "email": "matthew@hailwood.nz"
+    }
+  ],
+  "require": {
+    "silverstripe/framework": "~3.1",
+    "symfony/yaml": "~3.1"
+  }
+}

@@ -1,0 +1,10 @@
+---
+Name: iconpicker
+---
+FontAwesomeIconField:
+  version: 4.6.3
+  autoload_css: true
+
+SiteTree:
+  extensions:
+    - FontAwesomeIconFieldControllerExtension
