@@ -1,7 +1,7 @@
 Silverstripe Font Awesome Icon Picker
 ====================================
 
-![Screenshot](http://i.imgur.com/lLG0qvo.gifv)
+![Screenshot](/blob/master/snapshot.gif?raw=true)
 
 
 #### A Silverstripe Font Awesome Icon Picker:
