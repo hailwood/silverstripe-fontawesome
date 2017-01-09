@@ -45,6 +45,6 @@ class PageWithIcon extends Page {
 ##### SS Template (if you don't want to customize it)
 ```html
 <div>
-<strong>Page Icon:</strong> {$PageIcon.Classes}
+<strong>Page Icon:</strong> {$PageIcon}
 </div>
 ````
